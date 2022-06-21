@@ -1,4 +1,5 @@
 {
+  "Home": "https://pdenilsonn.github.io/desafio02-componentizando-a-aplicacao",
   "name": "01-github-explorer",
   "version": "1.0.0",
   "main": "index.js",
